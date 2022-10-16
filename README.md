@@ -1,3 +1,3 @@
 # FREE_SPEECH
- Where does free speech end and freedom from harm begin online?, On the one hand, free speech is a cornerstone of liberal democracy and a free society. On the other, we obviously want to prevent thE livestreaming of mass murders and terrorist attacks on Facebook. How do we inhibit one without choking the other? 
-This project is an attempt this problem by analyzing the 3 Dataset 
+Where does free speech end and freedom from harm begin online?, On the one hand free speech is a cornerstone of liberal democracy and a free society. On the other, we obviously want to prevent the livestreaming of mass murders and terrorist attacks on Facebook. Who gets to decide what is hate speech and what is free speech? because the answer to this question is subjective and can't be answered objectively. This project is an attempt to bifurcate the gap between free speech and hate speech by giving the authority to the audience rather than centralized biased social platforms and letting people decide waht is hate speech and what is free speech.
+ 
